@@ -1,0 +1,4 @@
+# System packages needed for PDF processing
+# Note: Ghostscript is required for Camelot PDF table extraction
+ghostscript
+
